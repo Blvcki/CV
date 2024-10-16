@@ -23,11 +23,10 @@ h1
 
 h2
     {
-        color: aliceblue;
         font-family: "Fjalla One", sans-serif;
         font-weight: 400;
         font-style: normal;
-        color: rgb(149, 103, 255);
+        color: rgb(231, 221, 255);
     }
 
 li
@@ -39,4 +38,19 @@ li
         font-style: normal;
     }
 
-    
+
+.right
+    {
+        position: absolute;
+        right : 20px;
+        top: 20px;
+        border: 2px solid grey;
+        box-shadow: 2px 2px 2px black;
+    }
+.link
+    {
+        font-family: "Fjalla One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(231, 221, 255);
+    }
